@@ -1,0 +1,10 @@
+Url for fetching the menu json is below
+
+( It may not work as I don't know what's the limit for api call or when it will get deleted )
+
+https://jsonkeeper.com/b/8L23
+
+If the app is not fetching the data, then create a new url at https://jsonkeeper.com/
+with the [ menu.json file ]
+
+then edit in DinDinApi at line no 8 -> [ @get:GET("b/8L23") ]

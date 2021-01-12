@@ -1,0 +1,152 @@
+[
+   {
+      "id":20000001,
+      "name":"Margherita",
+      "imageLink":"https://i.ibb.co/tDQSfjG/p-1.jpg",
+      "description":"Good food is a combination of mouth-watering flavours and healthy ingredients. Your favourite pizza gets a healthy makeover with a multi-grain base",
+      "type":"pizza",
+      "sub_type":"spicy",
+      "quantity":"400 grams, 30 cm",
+      "price":45
+   },
+   {
+      "id":20000002,
+      "name":"Marinara",
+      "imageLink":"https://i.ibb.co/H7kq93Q/p-2.jpg",
+      "description":"This Italian favorite pizza is a delicious mix of flat bread or base topped with cheese, chillies, onion, garlic sauce and chunks of chicken.",
+      "type":"pizza",
+      "sub_type":"vegan",
+      "quantity":"250 grams, 35 cm",
+      "price":50
+   },
+   {
+      "id":20000003,
+      "name":"Carbonara",
+      "imageLink":"https://i.ibb.co/kGfD2rt/p-3.jpg",
+      "description":"Make way for the all time favourite pizza!  Oargherita Pizza is to many the true Italian flag as it was created resembling the colors of the Italian flag.",
+      "type":"pizza",
+      "sub_type":"spicy",
+      "quantity":"500 grams, 45 cm",
+      "price":35
+   },
+   {
+      "id":20000004,
+      "name":"Frutti di Mare",
+      "imageLink":"https://i.ibb.co/RScxSJP/p-4.jpg",
+      "description":"Think out-of-the-box-cooking, think fusion food. This is what you get when Italian cooking marries Indian flavours.",
+      "type":"pizza",
+      "sub_type":"spicy",
+      "quantity":"250 grams, 25 cm",
+      "price":60
+   },
+   {
+      "id":20000005,
+      "name":"Quattro Formaggi",
+      "imageLink":"https://i.ibb.co/VTzzVFh/p-5.jpg",
+      "description":"A brilliant, gorgeous looking pizza that is high on flavour yet low on calories can strike a deal with anyone, right.",
+      "type":"pizza",
+      "sub_type":"vegan",
+      "quantity":"350 grams, 55 cm",
+      "price":65
+   },
+   {
+      "id":20000006,
+      "name":"Gunkan Maki",
+      "imageLink":"https://i.ibb.co/KFXJDbj/s-1.jpg",
+      "description":"Technically not sushi! While sushi is fish that is served with rice and may be adorned with other ingredients, sashimi is simply the raw fish, served as is.",
+      "type":"sushi",
+      "sub_type":"vegan",
+      "quantity":"800 grams, 40 pieces",
+      "price":120
+   },
+   {
+      "id":20000007,
+      "name":"Temaki",
+      "imageLink":"https://i.ibb.co/RbZLNHj/s-2.jpg",
+      "description":"Chirashi, meaning, “scattered,” is a bowl of vinegared rice topped with a mix of raw fish (typically chef’s choice) and various garnishes.",
+      "type":"sushi",
+      "sub_type":"spicy",
+      "quantity":"600 grams, 30 pieces",
+      "price":80
+   },
+   {
+      "id":20000008,
+      "name":"Narezushi",
+      "imageLink":"https://i.ibb.co/hYDgdbm/s-3.jpg",
+      "description":"Maki is cut rolled sushi, traditionally made with a sheet of nori, wrapped around a layer of rice, vegetables, and fish, then rolled up using a special bamboo mat, and cut into 6-8 pieces.",
+      "type":"sushi",
+      "sub_type":"vegan",
+      "quantity":"421 grams, 25 pieces",
+      "price":75
+   },
+   {
+      "id":20000009,
+      "name":"Nigiri",
+      "imageLink":"https://i.ibb.co/894nyWF/s-4.jpg",
+      "description":"Nigiri is a style of sushi that is made by molding a ball of vinegared rice by hand and topping it with a slice of raw fish. It’s usually served with two pieces and can be eaten with the hands.",
+      "type":"sushi",
+      "sub_type":"vegan",
+      "quantity":"100 grams, 15pieces",
+      "price":90
+   },
+   {
+      "id":20000010,
+      "name":"Sasazushi",
+      "imageLink":"https://i.ibb.co/q01CC1C/s-5.jpg",
+      "description":"The sushi we know today is a far cry from where it began. The original sushi was once a staple dish around various regions of Asia and was salted fish preserved in fermented rice.",
+      "type":"sushi",
+      "sub_type":"vegan",
+      "quantity":"900 grams, 60 pieces",
+      "price":85
+   },
+   {
+      "id":20000011,
+      "name":"Chocolate Smoothie",
+      "imageLink":"https://i.ibb.co/CnTf3kM/d-1.jpg",
+      "description":"A smoothie is a drink made from pureed raw fruit and/or vegetables, typically using a blender. A smoothie often has a liquid base such as water, fruit juice.",
+      "type":"drinks",
+      "sub_type":"none",
+      "quantity":"300 ml, 2 servings",
+      "price":20
+   },
+   {
+      "id":20000012,
+      "name":"Mulled apple juice",
+      "imageLink":"https://i.ibb.co/hcYs8dH/d-2.jpg",
+      "description":"According to the label, the ingredients of Apple Juicy Juice are apple juice concentrate, water, ascorbic acid -- commonly known as vitamin C -- and malic acid.",
+      "type":"drinks",
+      "sub_type":"none",
+      "quantity":"300 ml, 2 servings",
+      "price":20
+   },
+   {
+      "id":20000013,
+      "name":"Homemade cordial",
+      "imageLink":"https://i.ibb.co/BzVTt5X/d-3.jpg",
+      "description":"The mixture is then gently mashed with a muddler. The mint leaves should only be bruised to release the essential oils and should not be shredded.",
+      "type":"drinks",
+      "sub_type":"none",
+      "quantity":"900 ml, 4 servings",
+      "price":15
+   },
+   {
+      "id":20000014,
+      "name":"Lemonade",
+      "imageLink":"https://i.ibb.co/1qLpxLM/d-4.jpg",
+      "description":"Lemonade is a colourless sweet fizzy drink. A drink that is made from lemons, sugar, and water and is not fizzy can also be referred to as lemonade.",
+      "type":"drinks",
+      "sub_type":"none",
+      "quantity":"600 ml, 2 servings",
+      "price":25
+   },
+   {
+      "id":20000015,
+      "name":"Coca Cola",
+      "imageLink":"https://i.ibb.co/fCwtwrh/d-5.jpg",
+      "description":"The Coca-Cola Company is a beverage retailer, manufacturer and marketer of non-alcoholic beverage concentrates and syrups.",
+      "type":"drinks",
+      "sub_type":"none",
+      "quantity":"100 ml, 3 servings",
+      "price":30
+   }
+]

@@ -1,0 +1,33 @@
+<resources>
+
+    <style name="SimpleMaterialTheme" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorPrimaryDark">@color/White</item>
+        <item name="colorPrimary">@color/White</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:navigationBarColor">@color/Black</item>
+        <item name="android:windowBackground">@color/White</item>
+    </style>
+
+    <style name="SimpleMaterialTheme2" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorPrimaryDark">@color/Ghost_White</item>
+        <item name="colorPrimary">@color/White</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:navigationBarColor">@color/Black</item>
+        <item name="android:windowBackground">@color/White</item>
+    </style>
+
+    <style name="MenuItemCardView" parent="@style/Widget.MaterialComponents.CardView">
+        <item name="shapeAppearanceOverlay">@style/CornersForMenuItemCard</item>
+    </style>
+
+    <style name="CornersForMenuItemCard" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopRight">15dp</item>
+        <item name="cornerSizeTopLeft">15dp</item>
+        <item name="cornerSizeBottomRight">15dp</item>
+        <item name="cornerSizeBottomLeft">15dp</item>
+    </style>
+
+</resources>

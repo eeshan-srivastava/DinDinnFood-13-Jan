@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Din Dinn</string>
+
+    <string name="pizza">Pizza</string>
+    <string name="sushi">Sushi</string>
+    <string name="drinks">Drinks</string>
+
+    <string name="cart">Cart</string>
+    <string name="orders">Orders</string>
+    <string name="info">Information</string>
+    <string name="menu">Menu</string>
+
+    <string name="free_delivery">Delivery is free</string>
+    <string name="value">Value:</string>
+    <string name="filters">FILTERS</string>
+
+    <string name="spicy">Spicy</string>
+    <string name="vegan">Vegan</string>
+    <string name="empty_cart">Cart is empty. Add items in your cart to make a purchase.</string>
+
+    <string name="dindinn">Din Dinn</string>
+    <string name="delivery">delivery</string>
+</resources>

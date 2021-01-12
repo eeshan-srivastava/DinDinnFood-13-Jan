@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<color name="Neon_Blue">#4d4dff</color>
+<color name="Yinmn_Blue">#2e5090</color>
+<color name="Denim_Blue">#1560bd</color>
+<color name="Blue_Grey">#6699cc</color>
+<color name="Cerulean_Blue">#2a52be</color>
+<color name="Yinmn_Blue_2">#264276</color>
+
+<color name="WA_Dark_Grey_Max">#080e12</color>
+<color name="WA_Dark_Grey">#101d24</color>
+<color name="WA_SS_Grey">#21262c</color>
+<color name="WA_Primary_Dark">#0f1d24</color>
+<color name="WA_App_Bar">#222d36</color>
+<color name="WA_Mild_Line">#1f2830</color>
+<color name="WA_Tab_Dark">#00af9c</color>
+<color name="WA_Text">#979d9f</color>
+<color name="WA_White_Text">#d4d6d8</color>
+<color name="WA_Logo_Text">#9fa3a7</color>
+<color name="WA_Line">#263138</color>
+<color name="WA_Profile_Background_Dark">#6c767b</color>
+<color name="WA_Profile">#d6d8da</color>
+<color name="WA_Icon">#969c9f</color>
+
+<color name="WA_Text_Message_Light_Theme">#a8adaf</color>
+<color name="Tele_Text_Message_Light_Theme">#838c96</color>
+<color name="Tele_Divider_Light">#e2e6ec</color>
+<color name="Tele_Divider_2">#a7c6d7</color>
+<color name="WA_Divider_Light">#e5e5e5</color>
+
+<color name="F_Dark_Blue">#006acc</color>
+<color name="F_Light_Blue">#0099ff</color>
+<color name="F_Dark_Blue_2">#0058aa</color>
+
+<color name="White">#ffffff</color>
+<color name="White_2">#fefefe</color>
+<color name="Black">#000000</color>
+<color name="Ghost_White">#f8f8ff</color>
+<color name="Grey">#757575</color>
+<color name="Grey_2">#e5e5e5</color>
+<color name="White_3">#f2f2f2</color>
+
+<color name="Very_Light_Grey">#d9d9d9</color>
+<color name="Transparent">#0000</color>
+<color name="Green">#00c853</color>
+
+<color name="snackbar_message">#FEFEFE</color>
+<color name="snackbar_background_positive">#6699cc</color>
+<color name="snackbar_background_negative">#f7b731</color>
+
+<color name="Light_Yinmn">#b4c6e7</color>
+
+<color name="Tele_Background">#1c2733</color>
+<color name="Tele_Blue_Dark">#61a9e1</color>
+<color name="Tele_Blue_Light">#0fb2d3</color>
+
+<color name="Tele_Primary">#3f83b1</color>
+<color name="Tele_Primary_Dark">#346c92</color>
+<color name="Tele_Chat_Background_Light">#d6e2ee</color>
+<color name="Tele_Sent_Bubble_Light">#effdde</color>
+<color name="Tele_Green">#4caf50</color>
+<color name="Tele_Time_Light">#a1aab3</color>
+<color name="Tele_Icons_Light">#7d858f</color>
+<color name="Tele_Chat_Messge_Light">#838c96</color>
+<color name="Tele_Chat_Bubble_Came_Dark">#1c2733</color>
+<color name="Tele_Sent_Bubble_Dark">#456a93</color>
+<color name="Tele_Bubble_Came_Time_Dark">#7c8d97</color>
+<color name="Tele_Bubble_Sent_Time_Dark">#90aec8</color>
+<color name="Tele_Chat_Background_Dark">#151d26</color>
+<color name="Tele_Messaging_App_Bar_Dark">#222e3c</color>
+<color name="Tele_Messaging_Status_Bar_dark">#19222d</color>
+<color name="Tele_Icons_Dark">#7d8e98</color>
+
+<color name="WA_Pic_Background_Light">#e2e8ea</color>
+<color name="WA_Pic_Background_Dark">#6b767b</color>
+<color name="WA_Pic_Front_Dark">#dfe1e2</color>
+
+<color name="Grey_3_Light">#cdcdcd</color>
+<color name="Grey_4_Dark">#c1c1c1</color>
+
+<color name="Red">#df0024</color>
+
+<color name="Grey_5_Light">#575b5e</color>
+<color name="Grey_6_Dark">#35383f</color>
+
+<color name="Goo_Grey_Light">#2d2e31</color>
+<color name="Goo_Grey_Dark">#202124</color>
+
+<color name="Hot_Grey_Dark">#101212</color>
+<color name="Hot_Grey_Light">#111313</color>
+
+<color name="Wak_Grey_Light_1">#d9d9d9</color>
+
+<color name="Light_Ripple">#0d000000</color>
+<color name="Dark_Ripple">#0dffffff</color>
+
+<color name="White_Smoke">#f5f5f5</color>
+<color name="White_4">#eeeeee</color>
+
+<color name="Tele_Green_Light">#78c67f</color>
+<color name="Dark_Yellow">#f7971e</color>
+
+<color name="Five_per_cent_black">#0d000000</color>
+<color name="Ten_per_cent_black">#1a000000</color>
+<color name="Per_25_Black">#40000000</color>
+
+<color name="Tele_Default_Background_Wallpaper_Base">#cddaeb</color>
+<color name="Tele_light_chat_bg_v2">#d8e4f3</color>
+<color name="WA_darkest">#070C10</color>
+
+<color name="Dc_blue">#4c88ff</color>
+
+<color name="Youtube_Red">#e52d27</color>
+
+<!-- New 4 January-->
+<color name="Dc1_blue_2_less">#664b89ff</color>
+<color name="fourty_percent_tele_icon_dark">#667d8e98</color>
+
+<color name="Dc1_blue_2">#4b89ff</color>
+
+<color name="colorPrimary">#6200EE</color>
+<color name="colorPrimaryDark">#3700B3</color>
+<color name="colorAccent">#03DAC5</color>
+
+</resources>
